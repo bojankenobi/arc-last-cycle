@@ -1,0 +1,8 @@
+{
+  "name": "A.R.C. Last Cycle",
+  "description": "An intense orbital survival game built for Reddit Devvit. Stabilize the singularity in the final cycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
